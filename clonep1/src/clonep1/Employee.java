@@ -8,7 +8,7 @@ class Employee implements Cloneable {
     public Employee(String name, int salary) {
 
   this.n = name;
-
+    System.out.println("lll");
   this.pay = salary;
     }
 
